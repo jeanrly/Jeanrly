@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://www.pngwing.com/pt/free-png-ahbmc">
+  <img align="center" alt="Go" height="30" width="40" src="https://image.pngaaa.com/937/1523937-middle.png">
   
 </div>
  
